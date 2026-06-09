@@ -128,5 +128,5 @@ The result is a compact isolated converter that balances efficiency, simplicity,
 
 ## Acknowledgments
 
-This design was inspired by the broader class of no-opto isolated DC/DC converter architectures and reference designs used in low-power industrial applications [web:3][web:9].  
+This design was inspired by the broader class of no-opto isolated DC/DC converter architectures and reference designs used in low-power industrial applications.  
 Special attention was given to compact implementation, practical testability, and suitability for portable factory automation equipment.
