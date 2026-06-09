@@ -41,7 +41,8 @@ The secondary side uses asynchronous rectification, which keeps the output stage
 
 Because the design is open loop, the output is not regulated through a feedback loop using an optocoupler.  
 Instead, the design is optimized around the expected operating range, transformer ratio, switching conditions, and load profile.  
-This approach is well-suited to cost-sensitive and space-constrained isolated power supplies where simplicity is a priority [web:3][web:6].
+This approach is well-suited to cost-sensitive and space-constrained isolated power supplies where simplicity is a priority.
+
 ---
 
 ## Schematic Snapshot
