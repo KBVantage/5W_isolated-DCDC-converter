@@ -1,0 +1,48 @@
+Change Footprint: Footprint Not Found WURTH_61300211121
+Add component: Footprint Not Found WURTH_61300411121
+Add component: Footprint Not Found SNT-100-BK-G
+Add component: Footprint Not Found SNT-100-BK-G
+Add component: Footprint Not Found SNT-100-BK-G
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C1 CAP, CERM, 1uF, 10V, +/-10%, X5R, 0402
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C2 CAP, CERM, 22uF, 10V, +/-10%, X5R, 1206
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C3 CGB3B1X5R1A475K055AC
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C4 GRM155R71H561KA01D
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C5 C1608X5R1E685K080AC
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C6 C0603C475K8PACTU
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C7 GRM188R71A105KA61D
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C8 CGB3B1X5R1A475K055AC
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C9 CAP, CERM, 10uF, 10V, +/-10%, X7R, 0805
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component C10 CAP, CERM, 10uF, 10V, +/-10%, X7R, 0805
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component D1 RB520S30,115
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component D2 RB520S30,115
+Added Member To Class: ClassName=Header Member=Component J1 61300611121
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component J1 61300611121
+Added Member To Class: ClassName=Header Member=Component J2 61300411121
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component J2 61300411121
+Added Member To Class: ClassName=Header Member=Component J3 61300211121
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component J3 61300211121
+Added Member To Class: ClassName=Header Member=Component J4 61300211121
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component J4 61300211121
+Added Member To Class: ClassName=Header Member=Component J5 61300411121
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component J5 61300411121
+Add Class Member: Failed to add class member : Component J? 61300411121
+Add Class Member: Failed to add class member : Component J? 61300411121
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component R1 RES, 1.00k ohm, 1%, 0.063W, 0402
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component R2 CRCW040210K0FKED
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component R3 CRCW08050000Z0EAHP
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component R4 RES, 10.0 ohm, 1%, 0.063W, 0402
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component R5 RES, 499k ohm, 1%, 0.063W, 0402
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component R6 CRCW08050000Z0EAHP
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component R7 RES, 499k ohm, 1%, 0.063W, 0402
+Add Class Member: Failed to add class member : Component SH-J1 969102-0000-DA
+Add Class Member: Failed to add class member : Component SH-J1 969102-0000-DA
+Add Class Member: Failed to add class member : Component SH-J2 969102-0000-DA
+Add Class Member: Failed to add class member : Component SH-J2 969102-0000-DA
+Add Class Member: Failed to add class member : Component SH-J3 969102-0000-DA
+Add Class Member: Failed to add class member : Component SH-J3 969102-0000-DA
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component T1 750314839
+Added Member To Class: ClassName=Isolated DCDC Converter Member=Component U1 TPS60401QDBVRQ1
