@@ -51,7 +51,9 @@ This approach is well-suited to cost-sensitive and space-constrained isolated po
 
 ## PCB Snapshot
 
-<img width="1158" height="626" alt="image" src="https://github.com/user-attachments/assets/8fa69878-b8f4-4abc-a014-fc29f40eea11" />
+<img width="1186" height="546" alt="image" src="https://github.com/user-attachments/assets/3440dc9d-fb0d-4648-9c0e-5a5d32c7d8dc" />
+<img width="1110" height="448" alt="image" src="https://github.com/user-attachments/assets/758a0ab3-e676-4da5-83d0-d3b40e3a72b0" />
+
 
 
 ## Performance
